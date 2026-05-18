@@ -1,0 +1,6 @@
+interface:
+  display_name: "Kubeblocks"
+  short_description: "Repo-specific patterns and workflows for kubeblocks"
+  default_prompt: "Use the kubeblocks repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
